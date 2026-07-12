@@ -70,10 +70,6 @@ The Arduino:
 - Add EEPROM support for saving settings.
 - Integrate wireless notifications.
 
-## Screenshot
-
-_Add a screenshot of the completed Tinkercad circuit here._
-
 ## Author
 
 Michael Kalu
