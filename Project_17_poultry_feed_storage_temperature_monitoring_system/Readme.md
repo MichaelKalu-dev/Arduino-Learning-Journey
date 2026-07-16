@@ -78,11 +78,6 @@ Future Improvements
 - Add Bluetooth or Wi-Fi for remote monitoring.
 - Support multiple storage rooms with a single controller.
 
-Screenshot
-
-Add a screenshot of the completed Tinkercad circuit here.
-
-Author
 
 Michael Kalu
 
